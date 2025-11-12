@@ -18,9 +18,22 @@ Try the app right now! No installation required:
 
 The demo is running on Google Colab with GPU acceleration. Note that Gradio Spaces have a 72-hour timeout, so if the link is down, you can run it yourself using the instructions below.
 
+## 🚀 Deploy to Cloud (Recommended)
+
+Want persistent GPU hosting? Deploy to **Hugging Face Spaces** (free GPU tier available):
+
+📖 **[See Deployment Guide →](DEPLOYMENT.md)**
+
+Quick steps:
+1. Create a Hugging Face account
+2. Create a new Space with Gradio SDK
+3. Upload `app_spaces.py` (rename to `app.py`)
+4. Push and wait ~10 minutes for build
+5. Your app is live with free GPU!
+
 ## Quick Start
 
-### Option 1: Google Colab (Recommended)
+### Option 1: Google Colab
 
 1. Open `app_colab.ipynb` in Google Colab
 2. Enable GPU: Runtime → Change runtime type → GPU
