@@ -10,6 +10,14 @@ An AI-powered room design application using Stable Diffusion XL (SDXL) with QLoR
 - **Memory Optimized**: Sequential model loading for lower RAM usage
 - **Google Colab Ready**: Optimized notebook for cloud deployment
 
+## 🚀 Live Demo
+
+Try the app right now! No installation required:
+
+**[👉 Try Live Demo](https://9b534637a8e4d78c17.gradio.live)**
+
+The demo is running on Google Colab with GPU acceleration. Note that Gradio Spaces have a 72-hour timeout, so if the link is down, you can run it yourself using the instructions below.
+
 ## Quick Start
 
 ### Option 1: Google Colab (Recommended)
