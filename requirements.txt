@@ -1,0 +1,13 @@
+torch
+diffusers
+transformers
+peft
+bitsandbytes
+accelerate
+gradio
+datasets
+Pillow
+numpy
+safetensors
+xformers
+
